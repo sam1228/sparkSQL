@@ -1,5 +1,5 @@
 order_id,user_id,order_date,product_id,product_category,product_name,quantity,price_per_unit,payment_method,order_status
-1001,U188,2025-04-20,P940,Fashion,Sneakers,2,58.53,PayPal,Cancelled
+1001,U188,2025-04-20,P940,Fashion,Sneakers,2,58.53,PayPal,processing
 1002,U062,2025-04-16,P794,Fashion,T-Shirt,3,83.76,UPI,Returned
 1003,U058,2025-04-18,P326,Fashion,Sunglasses,2,78.85,PayPal,Processing
 1004,U011,2025-04-10,P574,Fashion,Sunglasses,5,46.49,PayPal,Delivered
