@@ -4,7 +4,7 @@ order_id,user_id,order_date,product_id,product_category,product_name,quantity,pr
 1003,U058,2025-04-18,P326,Fashion,Sunglasses,2,78.85,PayPal,Processing
 1004,U011,2025-04-10,P574,Fashion,Sunglasses,5,46.49,PayPal,Delivered
 1005,U003,2025-04-19,P988,Home Decor,Photo Frame,2,78.61,PayPal,Returned
-1006,U017,2025-04-15,P328,Kitchen,Knife Set,4,53.51,Credit Card,Returned
+1006,U017,2025-04-15,P328,Kitchen,Knife Set,4,53.51,Credit Card,Cancelled
 1007,U129,2025-04-23,P786,Home Decor,Wall Clock,5,12.71,Credit Card,Returned
 1008,U102,2025-04-15,P101,Home Decor,Photo Frame,1,46.6,Debit Card,Cancelled
 1009,U040,2025-04-04,P610,Kitchen,Toaster,4,35.87,Credit Card,Processing
@@ -45,7 +45,7 @@ order_id,user_id,order_date,product_id,product_category,product_name,quantity,pr
 1044,U146,2025-04-27,P553,Fashion,Jacket,1,95.74,Debit Card,Returned
 1045,U089,2025-04-05,P704,Fashion,Jeans,4,23.51,UPI,Cancelled
 1046,U016,2025-04-16,P750,Kitchen,Cutting Board,5,83.03,UPI,Returned
-1047,U035,2025-04-16,P862,Books,Spark for Dummies,2,40.27,Credit Card,Returned
+1047,U035,2025-04-16,P862,Books,Spark for Dummies,2,40.27,Credit Card,Cancelled
 1048,U043,2025-04-17,P807,Books,Big Data Explained,2,24.86,Credit Card,Returned
 1049,U135,2025-04-22,P130,Books,Spark for Dummies,3,46.3,Credit Card,Processing
 1050,U137,2025-04-24,P994,Fashion,Jeans,2,62.31,Credit Card,Delivered
