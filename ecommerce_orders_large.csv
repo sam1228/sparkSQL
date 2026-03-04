@@ -6,7 +6,7 @@ order_id,user_id,order_date,product_id,product_category,product_name,quantity,pr
 1005,U003,2025-04-19,P988,Home Decor,Photo Frame,2,78.61,PayPal,Returned
 1006,U017,2025-04-15,P328,Kitchen,Knife Set,4,53.51,Credit Card,Cancelled
 1007,U129,2025-04-23,P786,Home Decor,Wall Clock,5,12.71,Credit Card,Returned
-1008,U102,2025-04-15,P101,Home Decor,Photo Frame,1,46.6,Debit Card,Cancelled
+1008,U102,2025-04-15,P101,Home Decor,Photo Frame,1,46.6,Debit Card,Cancelled 
 1009,U040,2025-04-04,P610,Kitchen,Toaster,4,35.87,Credit Card,Processing
 1010,U186,2025-04-29,P354,Kitchen,Microwave,1,30.95,Credit Card,Processing
 1011,U168,2025-05-02,P706,Electronics,USB-C Cable,4,18.79,PayPal,Processing
